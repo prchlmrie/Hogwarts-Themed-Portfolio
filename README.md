@@ -12,11 +12,12 @@ Welcome to my portfolio, a magical space where technology meets creativity! ✨ 
 - **Contact Section**: Easy access to my GitHub and LinkedIn profiles for collaborations.
 
 ## 🖼️ Screenshots
-![image](https://github.com/user-attachments/assets/0098d89b-1301-41b5-98f5-3f9aa552167a)
-![image](https://github.com/user-attachments/assets/c353e587-f966-4db7-a98d-493899876405)
-![image](https://github.com/user-attachments/assets/41e413cd-0889-4fb4-b2ce-02e9a1b61602)
-![image](https://github.com/user-attachments/assets/2c83332f-2cd5-494a-9d2b-cf0b5e656586)
-![image](https://github.com/user-attachments/assets/782654ac-33a6-4496-9461-b855e74862f9)
+![image](https://github.com/user-attachments/assets/0962e811-7d92-4696-b7b6-5c7d65ce7972)
+![image](https://github.com/user-attachments/assets/203146a6-42a8-45ab-99f6-5d76a30eb9b0)
+![image](https://github.com/user-attachments/assets/3aea6df1-ce56-459a-a225-cba57d14f75d)
+![image](https://github.com/user-attachments/assets/67cb58b9-d393-4c7c-ab69-3d275a568aff)
+![image](https://github.com/user-attachments/assets/a5ebb0e0-8853-448c-98db-afad6f3ce4e1)
+
 
 ---
 
